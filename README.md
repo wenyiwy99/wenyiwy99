@@ -1,4 +1,13 @@
 ### Hi there 👋
+😄 I'm Yi Wen.
+
+🔭 I graduated from National University of Defense Technology (NUDT) with a master's degree, advised by [Professor Xinwang LIU (刘新旺教授)](https://xinwangliu.github.io/).
+
+🌱 My Homepage is [https://wenyiwy99.github.io/](https://xinwangliu.github.io/). 
+
+⚡ My current research interests include Recommendation System, Multi-view Clustering and Graph-based Learning.
+
+💬 If you have any question, welcome to contact me at wenyiwy2022@163.com.
 
 <!--
 **wenyiwy99/wenyiwy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
