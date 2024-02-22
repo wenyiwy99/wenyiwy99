@@ -3,7 +3,7 @@
 
 🔭 I graduated from National University of Defense Technology (NUDT) with a master's degree, advised by [Professor Xinwang LIU](https://xinwangliu.github.io/).
 
-🌱 My Homepage is [https://wenyiwy99.github.io/](https://xinwangliu.github.io/). 
+🌱 My Homepage is [https://wenyiwy99.github.io/](https://wenyiwy99.github.io/). 
 
 ⚡ My current research interests include Recommendation System, Multi-view Clustering and Graph-based Learning.
 
