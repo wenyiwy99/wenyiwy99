@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 😄 I'm Yi Wen.
 
 🔭 I graduated from National University of Defense Technology (NUDT) with a master's degree, advised by [Professor Xinwang LIU](https://xinwangliu.github.io/).
