@@ -1,11 +1,11 @@
 ### Hi 👋
-😄 I'm Yi Wen.
+😄 I'm Yi Wen. I am a first-year PhD student at the City University of Hong Kong, advised by [Professor Xiangyu Zhao](https://zhaoxyai.github.io/)
 
 🔭 I graduated from National University of Defense Technology (NUDT) with a master's degree, advised by [Professor Xinwang LIU](https://xinwangliu.github.io/).
 
 🌱 My Homepage is [https://wenyiwy99.github.io/](https://wenyiwy99.github.io/). 
 
-⚡ My current research interests include Recommendation System, Multi-view Clustering and Graph-based Learning.
+⚡ My current research interests include Recommendation Systems, RAG, and Multi-view Clustering.
 
 💬 If you have any question, welcome to contact me at wenyiwy2022@163.com.
 
